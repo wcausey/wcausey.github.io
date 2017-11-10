@@ -1,0 +1,8 @@
+-q -%i -w http://urbolabs.com/ http://www.appearme.com/ https://ponderapp.co/ https://www.sdkd.co/ https://omega-r.com/ https://www.indieboost.io/ https://pollichat.com/ https://motiapp.com/ http://www.wilowithlove.com/ http://www.bogartit.com/ https://www.culturesnapapp.com/ https://www.auredi.co/ http://www.gettotallyrad.com/ -O "/home/h4shthug/websites/USA" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -r1 -%e2 -A250000000 -F "" -%F "" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u
+File generated automatically on Thu, 09 Nov 2017 00:41:07, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
